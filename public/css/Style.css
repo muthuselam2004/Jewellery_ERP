@@ -1,0 +1,48 @@
+/* Premium Form Labels */
+label {
+    font-size: 15px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+/* Data Table Style */
+
+.table thead {
+    background-color: #f6f8fb;
+}
+
+.table thead th {
+    font-weight: 600;
+    color: #000000 !important;
+    font-size: 15px !important;
+}
+
+.table tbody td {
+    vertical-align: middle;
+    font-size: 15px;
+    font-weight: 600;
+    color: #111;
+}
+
+.table-user-thumb {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.table-actions {
+    text-align: right;
+}
+
+.table-actions a {
+    color: #bcc1c6;
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 16px;
+}
+
